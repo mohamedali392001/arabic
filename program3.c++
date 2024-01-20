@@ -2,6 +2,7 @@
 using namespace std;
 int main()
   {
+    // mohamed ali
     int x = 5 , y = 3 , a = 3 , n = 2 , w = 8;
     float z = (float)x/y;
     cout << z << "\n";
